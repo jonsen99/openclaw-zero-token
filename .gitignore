@@ -136,3 +136,5 @@ research-deepseek.mjs
 sha3_wasm_b64.txt
 sha3_wasm_bg.wasm
 solve-wasm.mjs
+FILES_TO_CLEANUP.md
+.vscode/settings.json
